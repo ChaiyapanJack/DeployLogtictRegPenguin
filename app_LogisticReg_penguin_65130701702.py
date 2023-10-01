@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.linear_model import LogisticRegression
 import pickle
 
 
